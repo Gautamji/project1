@@ -1,1 +1,2 @@
-Learning to use Git.
+<title>Learning to use Git.</title>
+
